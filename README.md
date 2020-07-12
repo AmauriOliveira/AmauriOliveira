@@ -2,59 +2,41 @@
 #### :clipboard:Dados Pessoais:
 
 | Email| Idade | Localização|
-| :------------ | :------------ |
+:-- | :-: | --:
 | amauriibate32@hotmail.com|33| Ibaté - SP|
-
 #### Redes sociais 
-[LinkedIn](https://www.linkedin.com/in/amauri-oliveira-058066192/)
-
-[Vulpi](https://app.vulpi.com.br/profile_public/7439763d4d5ee4a53b5609e7ceefa1ae3ac549c6)
-
-[Digital Innovation One](https://web.digitalinnovation.one/users/amaurioliveira)
-
-[Free Code Camp](https://www.freecodecamp.org/fcc44c036f7-c099-441d-8ad7-271eb735cd4a)
-
-[Impulso Network](https://impulser.me/HzWMdm)
+| | | | | |
+:-- | :-: | :-: | :-: | --:
+|[LinkedIn](https://www.linkedin.com/in/amauri-oliveira-058066192/)|[Vulpi](https://app.vulpi.com.br/profile_public/7439763d4d5ee4a53b5609e7ceefa1ae3ac549c6)|[Digital Innovation One](https://web.digitalinnovation.one/users/amaurioliveira)|[Free Code Camp](https://www.freecodecamp.org/fcc44c036f7-c099-441d-8ad7-271eb735cd4a)|[Impulso Network](https://impulser.me/HzWMdm)
 
 #### Ensino médio completo
-E.E Edésio Castanho, Ibaté-Sp
-
-Ano da conclusão: 2004
+|Escola | Cidade |Ano|
+:-- | :-: | --:
+|E.E Edésio Castanho| Ibaté-Sp | 2004
 
 #### Técnico em Informática
-**ETEC Paulino Botelho**
-
-Início: 02/2013      Término: 06/2014
-
-Carga horaria total: 1500 horas
-
-Período: Noturno.
+| Instituição|Cidade|Início|Término|Carga horaria|Período|
+:-- | :-: | :-: | :-: | :-: | --:
+|**ETEC Paulino Botelho**|São Carlos-SP|02/2013|06/2014|1500 horas|Noturno|
 
 ##### Designer Gráfico, inglês para Iniciantes, Web Designer
-Prepara Cursos Profissionalizantes unidade Ibaté
-
-Início: 06/2014      Previsão término: 08/2015
-
-Período: Noturno
+| Instituição|Cidade|Início|Término|Período|
+:-- | :-: | :-: | :-: | --:
+|Prepara Cursos|Ibaté-SP|06/2014|08/2015|Noturno|
 
 #### Análise e Desenvolvimento de Sistemas
-**Unicesumar**
-
-Início: 07/2019    Previsão término: 12/2021
-
-Período: EAD
+| Instituição|Cidade|Início|Previsão término|Período|
+:-- | :-: | :-: | :-: | --:
+|**Unicesumar**|São Carlos-SP|07/2019|12/2021|EAD|
 
 #### Extensão Universitária
 **The Fellowship of the Game - ICMC USP São Carlos**
 Grupo de alunos vinculado ao ICMC, sem fins lucrativos, focado na criação de jogos eletrônicos divertidos, de código aberto e multiplataforma. O grupo visa à aplicação direta dos conhecimentos adquiridos na graduação e da sua integração com as mais diversas tecnologias disponíveis no mercado.
 
 Experiencias: Trabalhamos em equipe com métodos ágil para desenvolver jogos e eventos sobre o assunto
-
-Cargo: **Game Developer Jr** / **Web Developer Jr.**
-
-Admissão: 24/05/2020, até a presente data.
-
-Contato: fog@icmc.usp.br
+|Cargo |Admissão| |Contato|
+:-- | :-: | :-: | --:
+|**Game Developer Jr** / **Web Developer Jr.**|24/05/2020| até a presente data|fog@icmc.usp.br|
 
 ##### Experiência Profissional
 ###### Desenvolvimento e freelance:Desenvolvimento e freelance:
@@ -68,11 +50,9 @@ Contato: fog@icmc.usp.br
 Entre outros cursos menores feito pela internet: **Coursera**, **Udemy**, **Digital Innovation One**, **Rocketseat**, **Solides**, **harvard.edu**, **poca.ufscar**, **mooc.cps**, **4linux** e muitas palestras e live codes onde aprendi e ainda busco aprender mais sobre diversas tecnologia, como HTML, CSS, PHP, JavaScript, React, React Native, NodeJS, Scrum, SoftSkills, Git, Docker, AWS, SCRUM, UI/UX, DevOps
 
 ##### Emprego Atual:
-Prefeitura Municipal de Ibaté
-
-Cargo: Serviços gerais, realizando aferição de hidrômetros.
-
-Admissão: 06/2010, até a presente data.
+|Empresa| Cargo |Atribução |Admissão ||
+:-- | :-: | :-: | :-: | --:
+|Prefeitura Municipal de Ibaté|Serviços gerais|realizando aferição de hidrômetros|06/2010| até a presente data|
 
 
 #### Sobre
