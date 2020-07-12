@@ -1,10 +1,10 @@
 # Amauri Antonio de Oliveira
 #### :clipboard:Dados Pessoais:
-Email: amauriibate32@hotmail.com
 
-Idade: 33
+| Email| Idade | Localização|
+| :------------ | :------------ |
+| amauriibate32@hotmail.com|33| Ibaté - SP|
 
-Ibaté - SP
 #### Redes sociais 
 [LinkedIn](https://www.linkedin.com/in/amauri-oliveira-058066192/)
 
