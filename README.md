@@ -8,18 +8,18 @@
 | | | | | |
 :-- | :-: | :-: | :-: | --:
 |[LinkedIn](https://www.linkedin.com/in/amauri-oliveira-058066192/)|[Vulpi](https://app.vulpi.com.br/profile_public/7439763d4d5ee4a53b5609e7ceefa1ae3ac549c6)|[Digital Innovation One](https://web.digitalinnovation.one/users/amaurioliveira)|[Free Code Camp](https://www.freecodecamp.org/fcc44c036f7-c099-441d-8ad7-271eb735cd4a)|[Impulso Network](https://impulser.me/HzWMdm)
-
+<!--
 #### Ensino médio completo
 |Escola | Cidade |Ano|
 :-- | :-: | --:
 |E.E Edésio Castanho| Ibaté-Sp | 2004
-
+-->
 #### Técnico em Informática
 | Instituição|Cidade|Início|Término|Carga horaria|Período|
 :-- | :-: | :-: | :-: | :-: | --:
 |**ETEC Paulino Botelho**|São Carlos-SP|02/2013|06/2014|1500 horas|Noturno|
 
-##### Designer Gráfico, inglês para Iniciantes, Web Designer
+##### Designer Gráfico, Inglês para Iniciantes, Web Designer
 | Instituição|Cidade|Início|Término|Período|
 :-- | :-: | :-: | :-: | --:
 |Prepara Cursos|Ibaté-SP|06/2014|08/2015|Noturno|
