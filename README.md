@@ -5,9 +5,9 @@
 :-- | :-: | --:
 | amauriibate32@hotmail.com|33| Ibaté - SP|
 #### Redes sociais 
-| | | | | |
-:-- | :-: | :-: | :-: | --:
-|[LinkedIn](https://www.linkedin.com/in/amauri-oliveira-058066192/)|[Vulpi](https://app.vulpi.com.br/profile_public/7439763d4d5ee4a53b5609e7ceefa1ae3ac549c6)|[Digital Innovation One](https://web.digitalinnovation.one/users/amaurioliveira)|[Free Code Camp](https://www.freecodecamp.org/fcc44c036f7-c099-441d-8ad7-271eb735cd4a)|[Impulso Network](https://impulser.me/HzWMdm)
+| | | | | | |
+:-- | :-: | :-: | :-: | :-: | --:
+|[LinkedIn](https://www.linkedin.com/in/amauri-oliveira-058066192/)|[Vulpi](https://app.vulpi.com.br/profile_public/7439763d4d5ee4a53b5609e7ceefa1ae3ac549c6)|[Digital Innovation One](https://web.digitalinnovation.one/users/amaurioliveira)|[Free Code Camp](https://www.freecodecamp.org/fcc44c036f7-c099-441d-8ad7-271eb735cd4a)|[Impulso Network](https://impulser.me/HzWMdm) |[Rocketseat](https://app.rocketseat.com.br/me/amauri-antonio-de-oliveira-1584024809)
 <!--
 #### Ensino médio completo
 |Escola | Cidade |Ano|
