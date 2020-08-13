@@ -1,3 +1,5 @@
+![Imgur](https://i.imgur.com/GrUTCbH.png)
+
 # Amauri Antonio de Oliveira
 #### :clipboard:Dados Pessoais:
 
