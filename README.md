@@ -1,6 +1,11 @@
-![Imgur](https://i.imgur.com/GrUTCbH.png)
-
 <h2> Hello! I am Amauri Antonio de Oliveira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/-React-282c33?style=flat&logo=react&logoColor=61DAFB)](#)
+[![React Native Badge](https://img.shields.io/badge/-React_Native-silver?&style=flat&logo=react&logoColor=61DAFB)](#)
+[![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)](#)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 
 | <img src="https://github-readme-stats.vercel.app/api?username=amaurioliveira&show_icons=true" alt="github stats" height=200/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&layout=compact" alt="top languages" height=200/> |
 |---|---|
