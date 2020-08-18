@@ -14,6 +14,7 @@
 :-- | :-: | --:
 | amauriibate32@hotmail.com|33| Ibaté - SP|
 
+#### Redes Sociais
 [My Linktree](https://linktr.ee/amauri_oliveira)
 
 #### Técnico em Informática
@@ -32,6 +33,7 @@
 #### Sobre
 Perfil analítico paixão por desafios e aprender coisa novas, com uma boa base logica e uma enorme curva de aprendizagem com tecnologias, desejo por fazer algo grande e transforma o mundo com meu trabalho.
 
+ <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <!--
 **AmauriOliveira/AmauriOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
