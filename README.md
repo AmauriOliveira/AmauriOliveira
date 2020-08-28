@@ -1,4 +1,4 @@
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=amaurioliveira&show_icons=true&theme=algolia&count_private=true" alt="github stats" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=amaurioliveira&show_icons=true&theme=dark&count_private=true" alt="github stats" />
 
 # Hello! I am Amauri Oliveira
 
@@ -6,7 +6,7 @@
 :-- | :-: | --:
 | amauriibate32@hotmail.com|33| Ibaté - SP|
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&layout=compact&theme=algolia" alt="top languages"/> 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&theme=dark" alt="top languages"/> 
 
 #### Redes Sociais
 [My Linktree](https://linktr.ee/amauri_oliveira)
