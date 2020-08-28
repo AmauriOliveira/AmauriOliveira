@@ -1,4 +1,12 @@
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=amaurioliveira&show_icons=true&theme=algolia&count_private=true" alt="github stats" />
+
 <h2> Hello! I am Amauri Antonio de Oliveira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&layout=compact&theme=algolia" alt="top languages"/> 
+
+
+ 
+
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](#)
@@ -7,8 +15,8 @@
 [![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)](#)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 
-| <img src="https://github-readme-stats.vercel.app/api?username=amaurioliveira&show_icons=true" alt="github stats" height=200/> |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&layout=compact" alt="top languages" height=200/> |
-|---|---|
+ 
+ <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 | Email| Idade | Localização|
 :-- | :-: | --:
@@ -33,7 +41,7 @@
 #### Sobre
 Perfil analítico paixão por desafios e aprender coisa novas, com uma boa base logica e uma enorme curva de aprendizagem com tecnologias, desejo por fazer algo grande e transforma o mundo com meu trabalho.
 
- <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 
 <!--
 **AmauriOliveira/AmauriOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
