@@ -16,11 +16,12 @@
 :-- | :-: | :-: | --:
 |**ETEC Paulino Botelho**|02/2013|06/2014|1500 horas|
 
+ <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 #### Análise e Desenvolvimento de Sistemas
 | Instituição|Início|Previsão término|Período|
 :-- | :-: | :-: | --:
 |**Unicesumar**|07/2019|12/2021|EAD|
-
 
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)](#)
@@ -31,10 +32,6 @@
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
 
  
- <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-
-
 #### Extensão Universitária
 **The Fellowship of the Game - ICMC USP São Carlos**
 
