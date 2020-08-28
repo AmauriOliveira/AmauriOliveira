@@ -6,20 +6,22 @@
 :-- | :-: | --:
 | amauriibate32@hotmail.com|33| Ibaté - SP|
 
+<br /><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&layout=compact&theme=algolia" alt="top languages"/> 
+
 #### Redes Sociais
 [My Linktree](https://linktr.ee/amauri_oliveira)
 
 #### Técnico em Informática
-| Instituição|Início|Término|Carga horaria|Período|
-:-- | :-: | :-: | :-: | --:
-|**ETEC Paulino Botelho**|02/2013|06/2014|1500 horas|Noturno|
+| Instituição|Início|Término|Carga horaria|
+:-- | :-: | :-: | --:
+|**ETEC Paulino Botelho**|02/2013|06/2014|1500 horas|
 
 #### Análise e Desenvolvimento de Sistemas
 | Instituição|Início|Previsão término|Período|
 :-- | :-: | :-: | --:
 |**Unicesumar**|07/2019|12/2021|EAD|
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&layout=compact&theme=algolia" alt="top languages"/> 
+
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](#)
