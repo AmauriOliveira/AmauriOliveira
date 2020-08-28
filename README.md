@@ -1,12 +1,12 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=amaurioliveira&show_icons=true&theme=algolia&count_private=true" alt="github stats" />
 
-<h2> Hello! I am Amauri Antonio de Oliveira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+# Hello! I am Amauri Oliveira
 
 | Email| Idade | Localização|
 :-- | :-: | --:
 | amauriibate32@hotmail.com|33| Ibaté - SP|
 
-<br /><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&layout=compact&theme=algolia" alt="top languages"/> 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&layout=compact&theme=algolia" alt="top languages"/> 
 
 #### Redes Sociais
 [My Linktree](https://linktr.ee/amauri_oliveira)
