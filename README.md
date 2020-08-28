@@ -2,25 +2,17 @@
 
 <h2> Hello! I am Amauri Antonio de Oliveira <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<br/>
-
 | Email| Idade | Localização|
 :-- | :-: | --:
 | amauriibate32@hotmail.com|33| Ibaté - SP|
 
-<br/>
-
 #### Redes Sociais
 [My Linktree](https://linktr.ee/amauri_oliveira)
-
-<br/>
 
 #### Técnico em Informática
 | Instituição|Início|Término|Carga horaria|Período|
 :-- | :-: | :-: | :-: | --:
 |**ETEC Paulino Botelho**|02/2013|06/2014|1500 horas|Noturno|
-
-<br/>
 
 #### Análise e Desenvolvimento de Sistemas
 | Instituição|Início|Previsão término|Período|
