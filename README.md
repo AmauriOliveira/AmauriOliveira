@@ -4,7 +4,7 @@
 
 | Email| Idade | Localização|
 :-- | :-: | --:
-| amauriibate32@hotmail.com|33| Ibaté - SP|
+| amauriibate32@hotmail.com|34| Ibaté - SP|
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&theme=dark" alt="top languages"/> 
 
