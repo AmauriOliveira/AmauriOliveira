@@ -30,6 +30,8 @@
 [![React Badge](https://img.shields.io/badge/-React-282c33?style=flat&logo=react&logoColor=61DAFB)](#)
 [![React Native Badge](https://img.shields.io/badge/-React_Native-silver?&style=flat&logo=react&logoColor=61DAFB)](#)
 [![Expo Badge](https://img.shields.io/badge/-Expo-4C35E3?&style=flat&logo=expo&logoColor=white)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](#)
 
 - :rocket: I’m currently learning Node JS, React JS and React Native at Rocketseat.
 
