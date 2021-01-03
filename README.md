@@ -33,10 +33,8 @@
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](#)
 
-- :rocket: I’m currently learning Node JS, React JS and React Native at Rocketseat.
-
 #### Técnico em Informática
-| Instituição|Início|Término|Carga horaria|
+| Instituição|Início|Término|Carga horária|
 :-- | :-: | :-: | --:
 |**ETEC Paulino Botelho**|02/2013|06/2014|1500 horas|
  
@@ -44,6 +42,11 @@
 | Instituição|Início|Previsão término|Período|
 :-- | :-: | :-: | --:
 |**Unicesumar**|07/2019|12/2021|EAD|
+
+#### GoStack 14
+| Instituição|Início|Término|Carga horária|
+:-- | :-: | :-: | --:
+|**Rocketseat**|08/2020|12/2020|160 horas|
  
   <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
