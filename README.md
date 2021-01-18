@@ -2,9 +2,10 @@
 
 # Hello! I am Amauri Oliveira
 
-| Email| Idade | Localização|
+
+| Atualmente  | Empresa | Localização|
 :-- | :-: | --:
-| amauriibate32@hotmail.com|34| Ibaté - SP|
+| Estagiário Desenvolvimento Web | TokenLab | São Carlos - SP|
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&theme=dark" alt="top languages"/> 
 
