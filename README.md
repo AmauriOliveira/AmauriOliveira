@@ -1,17 +1,18 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=amaurioliveira&show_icons=true&theme=dark&count_private=true" alt="github stats" />
 
-# Hello! I am Amauri Oliveira
-
+# Amauri Oliveira
 
 | Atualmente  | Empresa | Localização|
 :-- | :-: | --:
-| Estagiário Desenvolvimento Web | TokenLab | São Carlos - SP|
+| Estagiário Dev. Web | TokenLab | São Carlos - SP|
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&theme=dark" alt="top languages"/> 
 
 #### Redes Sociais
 [![My Linktree](https://img.shields.io/badge/-LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/amauri_oliveira)](https://linktr.ee/amauri_oliveira)
 
+
+#### Estudando/Conhecimento
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](#)
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](#)
 [![NodejsBadge](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)](#)
