@@ -38,9 +38,9 @@
 [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)](#)
 
 #### Técnico em Informática
-| Instituição|Início|Término|Carga horária|
+| Instituição ETEC|Início|Término|Carga horária|
 :-- | :-: | :-: | --:
-|**ETEC Paulino Botelho**|02/2013|06/2014|1500 horas|
+|**Paulino Botelho**|02/2013|06/2014|1500 h|
  
 #### Análise e Desenvolvimento de Sistemas
 | Instituição|Início|Previsão término|Período|
@@ -50,7 +50,7 @@
 #### GoStack 14
 | Instituição|Início|Término|Carga horária|
 :-- | :-: | :-: | --:
-|**Rocketseat**|08/2020|12/2020|160 horas|
+|**Rocketseat**|08/2020|12/2020|160 h|
  
   <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
