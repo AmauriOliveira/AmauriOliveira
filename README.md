@@ -10,6 +10,7 @@
 
 #### Redes Sociais
 [![My Linktree](https://img.shields.io/badge/-LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/amauri_oliveira)](https://linktr.ee/amauri_oliveira)
+[![My Linktree](https://img.shields.io/badge/-OtherGitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AmauriOliveiraTokenLab)](https://github.com/AmauriOliveiraTokenLab)
 
 
 #### Estudando/Conhecimento
