@@ -32,6 +32,7 @@
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
 [![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](#)
+[![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](#)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)](#)
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
@@ -63,21 +64,3 @@
 
 #### Sobre
 Perfil analítico paixão por desafios e aprender coisa novas, com uma boa base logica e uma enorme curva de aprendizagem com tecnologias, desejo por fazer algo grande e transforma o mundo com meu trabalho.
-
-
-
-<!--
-**AmauriOliveira/AmauriOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
