@@ -4,7 +4,7 @@
 
 | Atualmente  | Empresa | Localização|
 :-- | :-: | --:
-| Estagiário Dev. Web | TokenLab | São Carlos - SP|
+| Web Developer Jr | TokenLab | São Carlos - SP|
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&theme=dark" alt="top languages"/> 
 
