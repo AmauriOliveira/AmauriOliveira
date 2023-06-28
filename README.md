@@ -53,7 +53,7 @@
 #### Análise e Desenvolvimento de Sistemas
 | Instituição|Início|Término|Período|Carga horária|
 :-- | :-: | :-: | :-: | --:
-|**Unicesumar**|07/2019|12/2021|EAD||2280 h|
+|**Unicesumar**|07/2019|12/2021|EAD|2280 h|
 
 #### GoStack 14
 | Instituição|Início|Término|Carga horária|
