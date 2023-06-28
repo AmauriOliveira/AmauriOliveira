@@ -51,9 +51,9 @@
 |**Paulino Botelho**|02/2013|06/2014|1500 h|
  
 #### Análise e Desenvolvimento de Sistemas
-| Instituição|Início|Previsão término|Período|
-:-- | :-: | :-: | --:
-|**Unicesumar**|07/2019|12/2021|EAD|
+| Instituição|Início|Término|Período|Carga horária|
+:-- | :-: | :-: | :-: | --:
+|**Unicesumar**|07/2019|12/2021|EAD||2280 h|
 
 #### GoStack 14
 | Instituição|Início|Término|Carga horária|
