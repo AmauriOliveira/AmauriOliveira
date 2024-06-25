@@ -31,6 +31,7 @@
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](#)
 [![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](#)
+[![WordPress Badge](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](#)
 [![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
