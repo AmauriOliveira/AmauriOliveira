@@ -73,7 +73,7 @@
 
 | Instituição|Início|Término|Período|Carga horária|
 :-- | :-: | :-: | :-: | --:
-|**Unicesumar**|06/2022|06/2023|EAD|400 h|
+|**Unicesumar**|11/2023|01/2025|EAD|400 h|
 
 #### GoStack 14
 | Instituição|Início|Término|Carga horária|
