@@ -69,6 +69,12 @@
 :-- | :-: | :-: | --:
 |**Facuminas**|06/2022|06/2023|EAD|
 
+#### PÓS-GRADUAÇÃO LATO SENSU EM DESENVOLVIMENTO DE SISTEMAS COM JAVA
+
+| Instituição|Início|Término|Período|Carga horária|
+:-- | :-: | :-: | :-: | --:
+|**Unicesumar**|06/2022|06/2023|EAD|400 h|
+
 #### GoStack 14
 | Instituição|Início|Término|Carga horária|
 :-- | :-: | :-: | --:
