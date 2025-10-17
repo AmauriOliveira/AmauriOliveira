@@ -49,6 +49,25 @@
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791)](#)
 [![Unity Badge](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=fff)](#)
 
+### Gráficos 
+<div width=100% align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AmauriOliveira&radius=16&theme=redical&area=false&order=5&hide_border=false&hide_title=false&custom_title=Amauri%20Oliveira&line=5b2872&point=570086&color=009000" height="290" alt="activity-graph graph"/>
+</div>
+
+<div width=100% align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=AmauriOliveira&theme=darkhub" alt="Troféus do GitHub"/>
+</div>
+
+<div width=100% align="center">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=amaurioliveira&show_icons=true&theme=dark&count_private=true" alt="github stats" />
+</div>
+<div width=100% align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&theme=dark" alt="top languages"/>
+</div>
+<div width=100% align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=amaurioliveira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
+</div>
+
 #### Técnico em Informática
 
 | Instituição ETEC|Início|Término|Carga horária|
@@ -77,20 +96,6 @@
 | Instituição|Início|Término|Carga horária|
 :-- | :-: | :-: | --:
 |**Rocketseat**|08/2020|12/2020|160 h|
-
-<div width=100% align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmauriOliveira&theme=darkhub" alt="Troféus do GitHub"/>
-</div>
-
-<div width=100% align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=amaurioliveira&show_icons=true&theme=dark&count_private=true" alt="github stats" />
-</div>
-<div width=100% align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurioliveira&theme=dark" alt="top languages"/>
-</div>
-<div width=100% align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=amaurioliveira&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
-</div>
 
 #### Extensão Universitária
 
