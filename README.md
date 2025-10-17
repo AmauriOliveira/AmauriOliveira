@@ -4,7 +4,7 @@
 
 | Atualmente  | Empresa | Localização|
 :-- | :-: | --:
-| Web Developer Jr | TokenLab | São Carlos - SP|
+| Web Developer Jr | TokenLab | HomeOffice |
 
 #### Redes Sociais
 
