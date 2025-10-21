@@ -86,7 +86,7 @@
 :-- | :-: | :-: | --:
 |**Facuminas**|06/2022|06/2023|EAD|
 
-#### PÓS-GRADUAÇÃO LATO SENSU EM DESENVOLVIMENTO DE SISTEMAS COM JAVA
+#### Pós-Graduação Lato Sensu em Desenvolvimento de Sistemas com Java
 
 | Instituição|Início|Término|Período|Carga horária|
 :-- | :-: | :-: | :-: | --:
