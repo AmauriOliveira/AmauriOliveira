@@ -8,8 +8,8 @@
 
 #### Redes Sociais
 
-[![Dio](https://img.shields.io/static/v1?message=DIO&logo=dio&label=&color=000&&style=for-the-badge)](https://web.dio.me/users/25905?tab=achievements)
-[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&color=000&style=for-the-badge)](https://www.linkedin.com/in/amauri-oliveira-058066192/)
+[![Dio.me](https://img.shields.io/static/v1?message=DIO&logo=dio&label=&color=000&&style=for-the-badge)](https://web.dio.me/users/25905?tab=achievements)
+[![Linkedin](https://img.shields.io/static/v1?message=LinkedIn&label=&color=000&style=for-the-badge)](https://www.linkedin.com/in/amauri-antonio-de-oliveira/)
 [![My Linktree](https://img.shields.io/static/v1?message=OtherGitHub&label=&color=000&style=for-the-badge)](https://github.com/AmauriOliveiraTokenLab)
 
 #### Estudando/Conhecimento
